@@ -1,0 +1,7 @@
+baseurl = "https://tocky.github.io/bookshelf/"
+title = "tocky Book Reviews"
+languageCode = "ja-jp"
+
+[Params]
+  Author = "tocky"
+  disqusShortname = "bookshelf-4"
