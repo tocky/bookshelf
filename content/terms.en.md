@@ -1,7 +1,7 @@
 +++
 title = "Terms of Service"
-draft = true
-date = "2016-11-15T20:13:23+09:00"
+draft = false
+date = "2016-11-16T14:32:29+09:00"
 +++
 
 This is the terms of service for use this site.

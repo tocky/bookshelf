@@ -3,6 +3,8 @@ title = "tocky Book Reviews"
 languageCode = "ja-jp"
 DefaultContentLanguage = "ja"
 DefaultContentLanguageInSubdir = false
+PygmentsCodeFences = true
+PygmentsStyle = "vim"
 
 [Params]
   Author = "tocky"

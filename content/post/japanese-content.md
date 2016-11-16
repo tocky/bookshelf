@@ -1,7 +1,7 @@
 +++
 title = "日本語のコンテンツ"
-draft = true
-date = "2016-11-15T19:48:21+09:00"
+draft = false
+date = "2016-11-16T14:32:37+09:00"
 isCJKLanguage = true
 tags = [ "japanese", "vim" ]
 +++
