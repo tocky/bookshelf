@@ -1,7 +1,15 @@
 baseurl = "https://tocky.github.io/bookshelf/"
 title = "tocky Book Reviews"
 languageCode = "ja-jp"
+DefaultContentLanguage = "ja"
+DefaultContentLanguageInSubdir = false
 
 [Params]
   Author = "tocky"
   disqusShortname = "bookshelf-4"
+
+[Languages]
+  [Languages.en]
+    weight = 1
+  [Languages.ja]
+    weight = 2
