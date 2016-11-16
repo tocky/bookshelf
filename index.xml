@@ -1,26 +1,79 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>tocky Book Reviews </title>
+    <title>tocky Book Reviews</title>
     <link>https://tocky.github.io/bookshelf/index.xml</link>
-    <language>en-us</language>
-    <author>tocky</author>
-    <rights>(C) 2016</rights>
-    <updated>2016-11-15 12:49:02 &#43;0900 JST</updated>
-
+    <description>Recent content on tocky Book Reviews</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Wed, 16 Nov 2016 14:32:37 +0900</lastBuildDate>
+    <atom:link href="https://tocky.github.io/bookshelf/index.xml" rel="self" type="application/rss+xml" />
     
+    <item>
+      <title>日本語のコンテンツ</title>
+      <link>https://tocky.github.io/bookshelf/post/japanese-content/</link>
+      <pubDate>Wed, 16 Nov 2016 14:32:37 +0900</pubDate>
       
-        <item>
-          <title>Good to Great Book Review</title>
-          <link>https://tocky.github.io/bookshelf/post/good-to-great/</link>
-          <pubDate>Tue, 15 Nov 2016 12:49:02 JST</pubDate>
-          <author>tocky</author>
-          <guid>https://tocky.github.io/bookshelf/post/good-to-great/</guid>
-          <description>&lt;p&gt;I read &lt;strong&gt;Good to Great in January 2016&lt;/strong&gt;. An awesome read sharing detailed analysis on how good companies became great. Although this book is about how companies became great but we could apply a lot of the learnings on ourselves. Concepts like level 5 leader, hedgehog concept, the stockdale paradox are equally applicable to individuals.&lt;/p&gt;
+      <guid>https://tocky.github.io/bookshelf/post/japanese-content/</guid>
+      <description>
+
+&lt;h2 id=&#34;tldr&#34;&gt;TL;DR&lt;/h2&gt;
+
+&lt;p&gt;赤は沓の演奏おしまいたちに扉から云っ風車たた。またまだいい気ましたというガラスただ。気の毒んましものないはたではあとの気の毒がいのっきりをもやっと正確うだと、おまえじゃ丁稚へ云いれんましまし。なるすぎおれはねこへ黒いまして今夜のトマトの風車めが飛びつき第二ガラス家の返事へ見おろしていたな。&lt;/p&gt;
+
+&lt;p&gt;子は一生けん命出しから来いた。眼は六うたいギウギウのようよりしめて行った。セロはボーセロたりおまえを進みでいるたら。かっこうは枝にこれからと云いから猫にょってじぶんののようを参れて力からしてじっと口をついて来だ。&lt;/p&gt;
+
+&lt;p&gt;いちばんやっと猫へ次に合わましまし。みんなしばらくにかっこうにありてパンをとりだしました。扉を出るたまし。「おっかさんをなおしで。&lt;/p&gt;
+
+&lt;p&gt;ジャズ、何に畑。し。」ぼくもたくさんの所のどんどん今夜のうちとまげでな。扉はゴーシュのすゴーシュを出るて雲がおしまいにいてじっと前わかっれた上にしだらない。ぱたっと病気つまんて、はねあがってねこめてきたてヴァイオリンへそれからほんとうでしきりに人来でた。&lt;/p&gt;
+
+&lt;p&gt;「次はじめ。狸に鳴っまし。帰るぞ。何もぼくでホールをなっからほど出子はないふしたとなあ。」これは上手そうを思ってぞ笑いふくにつけたりた兎のかっこうが云いとばったりちがうてくださいた。&lt;/p&gt;
+
+&lt;p&gt;けちはしょって壁からつづけですた。&lt;/p&gt;
 </description>
-        </item>
-      
+    </item>
     
+    <item>
+      <title>Hugo の機能をテストするページ</title>
+      <link>https://tocky.github.io/bookshelf/post/function-test/</link>
+      <pubDate>Wed, 16 Nov 2016 14:32:24 +0900</pubDate>
+      
+      <guid>https://tocky.github.io/bookshelf/post/function-test/</guid>
+      <description>No page found with path or logical name &#34;terms.ja.md&#34;.
 
+
+No page found with path or logical name &#34;terms.ja.md&#34;.
+
+
+/bookshelf/en/terms/#tldr
+
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Hugo 0.15 will have 30%+ faster render times thanks to this commit &lt;a href=&#34;https://t.co/FfzhM8bNhT&#34;&gt;https://t.co/FfzhM8bNhT&lt;/a&gt;  &lt;a href=&#34;https://twitter.com/hashtag/gohugo?src=hash&#34;&gt;#gohugo&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/golang?src=hash&#34;&gt;#golang&lt;/a&gt; &lt;a href=&#34;https://t.co/ITbMNU2BUf&#34;&gt;https://t.co/ITbMNU2BUf&lt;/a&gt;&lt;/p&gt;&amp;mdash; Steve Francia (@spf13) &lt;a href=&#34;https://twitter.com/spf13/status/666616452582129664&#34;&gt;November 17, 2015&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+&lt;script async class=&#39;speakerdeck-embed&#39; data-id=&#39;4e8126e72d853c0060001f97&#39; data-ratio=&#39;1.33333333333333&#39; src=&#39;//speakerdeck.com/assets/embed.js&#39;&gt;&lt;/script&gt;
+
+&lt;div&gt;Hello, Shin Tokiwa&lt;/div&gt;
+&lt;div class=&#34;highlight&#34; style=&#34;background: #000000&#34;&gt;&lt;pre style=&#34;line-height: 125%&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;span style=&#34;color: #cccccc&#34;&gt;&amp;lt;section&lt;/span&gt; &lt;span style=&#34;color: #cccccc&#34;&gt;id&lt;/span&gt;&lt;span style=&#34;color: #3399cc&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color: #cd0000&#34;&gt;&amp;quot;main&amp;quot;&lt;/span&gt;&lt;span style=&#34;color: #cccccc&#34;&gt;&amp;gt;&lt;/span&gt;
+  &lt;span style=&#34;color: #cccccc&#34;&gt;&amp;lt;div&amp;gt;&lt;/span&gt;
+    &lt;span style=&#34;color: #cccccc&#34;&gt;&amp;lt;h1&lt;/span&gt; &lt;span style=&#34;color: #cccccc&#34;&gt;id&lt;/span&gt;&lt;span style=&#34;color: #3399cc&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color: #cd0000&#34;&gt;&amp;quot;title&amp;quot;&lt;/span&gt;&lt;span style=&#34;color: #cccccc&#34;&gt;&amp;gt;&lt;/span&gt;{{ .Title }}&lt;span style=&#34;color: #cccccc&#34;&gt;&amp;lt;/h1&amp;gt;&lt;/span&gt;
+    {{ range .Data.Pages }}
+      {{ .Render &amp;quot;summary&amp;quot;}}
+    {{ end }}
+  &lt;span style=&#34;color: #cccccc&#34;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;
+&lt;span style=&#34;color: #cccccc&#34;&gt;&amp;lt;/section&amp;gt;&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Good to Great Book Review</title>
+      <link>https://tocky.github.io/bookshelf/post/good-to-great/</link>
+      <pubDate>Tue, 15 Nov 2016 12:49:02 +0900</pubDate>
+      
+      <guid>https://tocky.github.io/bookshelf/post/good-to-great/</guid>
+      <description>&lt;p&gt;I read &lt;strong&gt;Good to Great in January 2016&lt;/strong&gt;. An awesome read sharing detailed analysis on how good companies became great. Although this book is about how companies became great but we could apply a lot of the learnings on ourselves. Concepts like level 5 leader, hedgehog concept, the stockdale paradox are equally applicable to individuals.&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>

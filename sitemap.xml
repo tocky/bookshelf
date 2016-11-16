@@ -1,14 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <url>
-    <loc>https://tocky.github.io/bookshelf/</loc>
-    <lastmod>2016-11-15T12:49:02+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tocky.github.io/bookshelf/post/good-to-great/</loc>
-    <lastmod>2016-11-15T12:49:02+09:00</lastmod>
-  </url>
-  
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	
+	<sitemap>
+	   	<loc>https://tocky.github.io/bookshelf/en/sitemap.xml</loc>
+		
+	   	<lastmod>2016-11-16T14:32:29+09:00</lastmod>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>https://tocky.github.io/bookshelf/ja/sitemap.xml</loc>
+		
+	   	<lastmod>2016-11-16T14:32:37+09:00</lastmod>
+		
+	</sitemap>
+	
+</sitemapindex>
